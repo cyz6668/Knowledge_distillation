@@ -1,0 +1,2 @@
+# Knowledge_distillation
+训练好的教师网络resnet50知识蒸馏到renset18
